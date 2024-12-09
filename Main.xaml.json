@@ -1,0 +1,81 @@
+{
+  "DisplayName": "Main",
+  "Tooltip": null,
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "auxCorreos",
+      "DisplayName": "auxCorreos",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "wendy_orovio@gruposuperior.com;angela_naula@gruposuperior.com;sebastian_zuniga@gruposuperior.com",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "vRuc",
+      "DisplayName": "vRuc",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "1791941594001",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "vReproceso",
+      "DisplayName": "vReproceso",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "False",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "vAño",
+      "DisplayName": "vAño",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "vResta",
+      "DisplayName": "vResta",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "0",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "vTodoAnio",
+      "DisplayName": "vTodoAnio",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    }
+  ]
+}
